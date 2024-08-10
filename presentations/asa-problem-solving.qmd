@@ -1,0 +1,622 @@
+---
+title: "Functionalist Foundations for Problem Solving Sociologists"
+author: 
+  - name: Andrés Castro Araújo
+institute: 
+  - Duke University
+format: 
+  revealjs: 
+    theme: [styles.scss]
+    fig-align: center
+    date: last-modified
+    date-format: long
+    slide-number: true
+    title-slide-attributes: 
+      data-background-color: "#4C837B"
+bibliography: references.bib
+---
+
+# Background {background-color="#4C837B"}
+
+## Cognitive Dissonance
+
+::: incremental
+-   Status hierarchies as solutions to problems of cooperative goal-attainment.
+
+    ::: auth-reference
+    Cecilia @ridgeway2019, Robb @willer2009
+    :::
+
+-   Norms as adaptive responses to common-pool resource situations.
+
+    ::: auth-reference
+    Elinor @ostrom1990
+    :::
+
+-   Categorical inequality as a solution to various "organizational problems"
+
+    ::: auth-reference
+    Charles @tilly1998
+    :::
+
+-   Conventions as spontaneous solutions to coordination problems.
+
+    ::: auth-reference
+    David @lewis1969, Cailin @oconnor2019
+    :::
+
+-   "Therein lies the secret of racial structures and racial inequality the world over. *They exist because they benefit members of the dominant race."*
+
+    ::: auth-reference
+    Eduardo @bonilla-silva2021 [9-10]
+    :::
+:::
+
+::: {.fragment .auth-reference}
+*And a very large etc.*
+:::
+
+::: notes
+Graduate students experience a lot of cognitive dissonance, we are told that functionalism is bad but functionalist explanations are still widely used.
+
+-   On logical grounds: circular reasoning
+
+Status hierarchies make group efforts more **efficient** by managing disagreements, redirecting competitive interests, and coordinating actions into a joint effort.
+
+This last quote by Eduardo Bonilla is key in the literature on racism, in that many argue you cannot understand race as a social construction unless you also understand the purpose it serves, its function.
+
+This is not the structural-functionalism of Talcott Parsons, nor the type of framework that sees society as a living organism with component parts that perform unique tasks that contribute to the survival and reproduction of the whole.
+:::
+
+## A collaboration
+
+::: columns
+::: {.column width="50%"}
+**Our goals**
+
+-   Disambiguation.
+
+-   Against ["organicism"]{.smallcaps}
+
+-   [Functionalism]{.smallcaps} as a set of general and recognizable explanatory strategies.
+:::
+
+::: {.column width="50%"}
+**Nicolás Restrepo Ochoa**
+
+![On the job market!](images/clipboard-1782180081.png){fig-align="center" width="75%"}
+:::
+:::
+
+::: notes
+1.  What kind of explanatory work, if at all, is the word "function" doing?
+
+2.  All the criticisms in the literature, at least the ones that hold water, seem to be headed towards this way of thinking.
+
+    Abstract macro-entities with "needs" whose component parts have self-maintenance functions.
+
+3.  Not as a substantive theory about society!
+
+    You can call this a meta-theory or a methodological frame of reference...
+:::
+
+## An Intuition
+
+::: columns
+::: column
+*“Functional” explanations account for a behavior, practice, or institution by reference to the “problem” it solves.*
+
+::: {style="text-align: right;"}
+*---Mark Granovetter [-@granovetter2017, 17]*
+:::
+
+::: {.fragment style="text-align: center; padding-top: 5em;"}
+Where will this take me?
+:::
+:::
+
+::: {.column style="text-align: center;"}
+![](images/pss-book.png){width="80%"}
+:::
+:::
+
+::: notes
+"Problem-solving sociology: scholarship that attempts to use the traditions of sociological research to solve real-world problems, and uses the attempt to grapple with real-world problems as a way to reformulate understandings of society and renew or reinvent those traditions" [@prasad2021, 3].
+
+Sure sounds like the kind of world problem-solving sociologists *would* like to live in.
+
+This is not a good definition. And Granovetter was very skeptical that this kind of explanation would actually amount to something defensible.
+:::
+
+# Theoretical Foundations {background-color="#4C837B"}
+
+::: {style="color: #E8E1C9;"}
+**Functionalism for problem-solving sociologists**
+
+<br>
+
+::: {style="padding-left: 5em;"}
+*One thing is sure, for sociology to accept that no functionalist arguments work is like cutting off one’s nose to spite one’s face.*
+:::
+
+::: {style="text-align: right;"}
+— Mary Douglas
+:::
+:::
+
+::: notes
+Functional Explanations vs Functional*isms*
+
+**Ambiguity here:** Functional explanations as a way of making arguments that are compatible with multiple substantive theories about society.
+:::
+
+## Arthur Stinchcombe (1933-2018)
+
+::: columns
+::: {.column width="50%"}
+1.  What are functionalist explanations?
+
+    ::: auth-reference
+    Outdated.
+    :::
+
+2.  When do "authoritative abstractions" (rules) work and why?
+
+    ::: auth-reference
+    A more *substantive* theory.
+    :::
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-3780150348.png){fig-align="center" width="80%"}
+:::
+:::
+
+::: notes
+Arthur Stinchcombe, who stubbornly refused to abandon the "functionalist" label.
+
+Share a concern for "formal rationality." When it works, and how it works.
+
+The people who staff organizations are not "cultural dopes," they are not "cogs in the machine," they are not "cynical performers," Selznick describes them as "recalcitrant tools" who are committed to their own goals and refuse to be reduced to simple "means."
+:::
+
+## Functionalist Explanations are Teleological
+
+::: {style="border-bottom: 1px solid; padding-bottom: 1em; padding-top: 1em;"}
+Teleology is the study of [purpose]{.smallcaps} or end-[goals]{.smallcaps}.
+:::
+
+::: {.fragment style="padding-top: 1em;"}
+We explain the existence and shape of *X* by making reference to its [purpose]{.smallcaps}
+
+::: auth-reference
+*X*: a trait, a belief, a behavioral disposition, a ritual, an artifact, an organization, a rule, ...
+:::
+:::
+
+::: {.fragment style="padding-top: 0.25em;"}
+A special kind of **causal structure**.
+
+::: auth-reference
+@stinchcombe1968, @rosenblueth1943
+:::
+:::
+
+::: incremental
+1.  No definition of [function]{.smallcaps}
+
+    ::: auth-reference
+    role-functions and proper functions
+    :::
+
+2.  Conflates [function]{.smallcaps}-explanations and [goal]{.smallcaps}-explanations
+
+    ::: auth-reference
+    little overlap
+    :::
+:::
+
+::: notes
+1.  These explanations have a bad reputation. Regarded as mysterious and problematic since they seem to imply that something in the future can reach back in time and affect the past.
+
+    Religious form of intelligent design or the more secular idea of a conspiracy theory.
+
+    It is a mistake to infer the origins of some phenomenon by examining its consequences rather than the actual processes that brought it about.
+
+2.  Circular causality. Negative feedback. Cybernetics. A very abstract way of grounding purpose in scientific terms. Homeostatic variables and "control" over perturbations.
+
+    Demystifying the problem of backwards causation.
+
+    "By a functional explanation we mean one in which the *consequences* of some behavior or social arrangement are essential elements of the *causes* of that behavior" [@stinchcombe1968, 80].
+
+    Stinchcombe describes various causal loops, ranging from differential reproduction via some kind of natural selection, learning via trial-and-error, individual and collective planning, and many more. “Each of these common processes select out and reinforce behavior or social structures according to their consequences."
+
+3.  Seemingly abandoned this template.
+
+    1.  No definition of function.
+
+    2.  You see... goals and functions are often used interchangeably with the word "purpose." But they are not the same!
+
+        “*seeing* is customarily said to be a function of eyes, rather than their goal; and *escape from a predator* is said to be the goal of a hare’s flight, rather than its function.”
+:::
+
+# Functions {background-color="#4C837B"}
+
+::: notes
+**What functions are not.**
+
+1.  Mathematical functions that specify relationships between variables.
+2.  Effects, outcomes, consequences
+3.  Beneficial effects, beneficial outcomes, beneficial consequences.
+
+Note. I did not come up with any of the terms I will introduce in this section. These are common distinctions in the philosophical literature.
+:::
+
+## [Proper Functions]{.smallcaps} (or "Selected Effects")
+
+::: {style="border-bottom: 1px solid; padding-bottom: 0.5em; padding-top: 1em;"}
+Why-is-it-there question (historical)
+
+***X** has a function **F** if and only **X** is there because it does **F***
+:::
+
+::: columns
+
+::: {.column .fragment width="50%" style="padding-top: 0.5em;"}
+**Selection process**
+
+*Differential reproduction*
+
+-   Technical efficiency
+-   Cultural legitimacy
+-   Military conquest
+:::
+
+::: {.column .fragment width="50%" style="padding-top: 0.5em;"}
+**Reinforcement process**
+
+*Differential retention*
+
+-   Access to resources
+-   Peer recognition (status)
+-   Other rewards
+:::
+:::
+
+::: notes
+All proper functions are historical.
+
+If you qualify the effect as "useful" then we get the notion of an *adaptation.*
+:::
+
+## [Role-Functions]{.smallcaps}
+
+::: {style="border-bottom: 1px solid; padding-bottom: 1em; padding-top: 1em;"}
+How-does-it-work question (a-historical)
+
+*The role-function of X is its contribution to some higher-level phenomena.*
+:::
+
+::: {.fragment style="padding-top: 1em;"}
+Functional decomposition and "mechanistic" explanations.
+
+::: auth-reference
+Some "system" is explained in terms of the organized activities of its component parts.
+:::
+:::
+
+::: columns
+::: {.column .fragment width="50%"}
+**Examples:**
+
+-   An army's capacity to destroy.
+
+-   A government's capacity to surveil.
+
+-   The circulatory system's capacity to deliver oxygen and nutrients to cells.
+:::
+
+::: {.column .fragment width="50%"}
+![](images/fingerprints.png){width="100%"}
+:::
+:::
+
+::: notes
+The thing-to-explained is not X, it is not the function bearer. It is a higher-level capacity exhibited by some chosen containing system.
+
+If we take the thing-to-be-explained to be the achievement of some "goal," then these functions become goal-contributions.
+:::
+
+# Goals and Goal-Directed Behavior {background-color="#4C837B"}
+
+::: notes
+People and other organisms have goals. They may be ascribed role-functions in the context of some division of labor, but they do not have proper functions.
+
+A knife may be described as having various role-functions, but it will never have goals.
+:::
+
+## [Goal]{.smallcaps}-Directed Behavior
+
+::: {style="padding-top: 1em;"}
+Includes (1) the *conscious* pursuit of [goals]{.smallcaps} and (2) non-deliberate behavior.
+:::
+
+::: {.fragment style="padding-top: 1em;"}
+Behavioral markers:
+
+-   [Persistence]{.smallcaps}
+
+    ::: auth-reference
+    the capacity for error correction, returning to some trajectory following perturbations
+    :::
+
+-   [Plasticity]{.smallcaps}
+
+    ::: auth-reference
+    the capacity for finding a particular trajectory from a wide range of starting points
+    :::
+:::
+
+::: fragment
+*What is the source of persistence and plasticity?*
+:::
+
+::: notes
+::: {.fragment style="padding-top: 1em;"}
+It is important to keep goals and goal-directed behavior apart.
+
+Behavioral markers help make sense of the distinction between professed and operational goals.
+
+Consier Karl Marx’s famous discussion of the "goals or "interests" of the individual capitalist as being relatively inconsequential since ultimately it is capitalist competition that will drive his behavior.
+
+The thing-to-be-explained is different. It shifted levels! Functions can be the outcome of a goal-directed process.
+:::
+:::
+
+## [Goals]{.smallcaps}
+
+::: {style="padding-top: 1em;"}
+Individuals intentionally pursuing their "wants" and "needs."
+:::
+
+::: incremental
+-   Rational Choice Theory
+
+    ::: auth-reference
+    micro-economic functionalism
+    :::
+
+-   Max Weber's cultural sociology
+
+    ::: auth-reference
+    motives, values
+    :::
+:::
+
+::: fragment
+When is it useful to describe collectivities as as having "[goals]{.smallcaps}" of their own?
+
+::: auth-reference
+Mechanisms behind "functional integration" or "unity of purpose."
+:::
+:::
+
+::: notes
+There is nothing mysterious about teleological explanations when they invoke "needs" and "wants" as a long as it's grounded in *people.*
+
+Earlier I said that functionalism is associated with an abstract organicism framework. One of the biggest problems with Parsonian structural-functionalism is that it was too liberal in its adjudication of "goals" and "needs" to abstract macro-entities. Think "society" or "capitalism."
+
+crowds, social movements, organizations, army units
+:::
+
+# You cannot steer clear of [functions]{.smallcaps} and [goals]{.smallcaps} {background-color="#4C837B"}
+
+::: notes
+It is hard to imagine any form of critical scholarship or progressive social movement that manages to steer clear of goals and functions.
+:::
+
+# A More Substantive Theory {background-color="#4C837B"}
+
+::: {style="color: #E8E1C9;"}
+How to ensure that [means]{.smallcaps} are not divorced from [ends]{.smallcaps}?
+:::
+
+## When [Formal Rationality]{.smallcaps} Works
+
+<div>
+
+**Authoritative abstractions (rationalized "tools"):**
+
+::: incremental
+-   Rules-as-laws and rules-as-algorithms
+
+-   Processed information
+
+    ::: auth-reference
+    blueprints, statistical summaries, etc.
+    :::
+:::
+
+</div>
+
+::: fragment
+**Three desiderata:**
+
+-   Cognitive Adequacy
+
+-   Communicability
+
+-   Trajectory of Improvement
+:::
+
+<aside>
+
+::: {style="text-indent: 2em; padding-top: 1em;"}
+Arthur L. Stinchcombe [-@stinchcombe2001]. *When Formality Works: Authority and Abstraction in Law and Organizations*. University of Chicago Press.
+:::
+
+</aside>
+
+::: notes
+How to design means that are goal-appropriate?
+
+Together, these are a reliable indicators that formality is adaptive, functional.
+
+1.  The abstraction provides an adequate representation of the underlying problem, otherwise it will not be a useful guide to action. This usually means that a blueprint has the right amount of detail; that rules and categories are unambiguous; data is measured without error; and so on. Organizations have limited resources and so they typically weigh the costs and benefits of acquiring extra information. Often, they must sacrifice accuracy in exchange for efficiency.
+2.  Communicability means that information must be transparent and reach relevant decision-makers in a timely and reliable fashion. And since communication is always marked by some degree of ambiguity—a “variance in meaning”—it is normal for organizations to be staffed by professionals with a specialized language (or “formalized linguistic communities”).
+3.  Organizations must have feedback systems that allow for self-correction in response to changing realities and, thus, lead to improvement over time. Important mistakes must be corrected, ambiguities must be resolved, new rules have to be introduced, old rules have to be eliminated, technologies must be updated regularly, and so on. This is the only way for formalities to remain adequate and communicable.
+:::
+
+## The Key is [Discretion]{.smallcaps}
+
+::: {style="border-bottom: 1px solid; padding-bottom: 0.5em; padding-top: 1em;"}
+*Discretion is perhaps too bland a term for the delicate sense of knowing just when and how to adjust a rule to circumstance or abandon it all together.*
+
+::: {style="text-align: right;"}
+*---Lorraine Daston*
+:::
+:::
+
+::: {.fragment style="padding-top: 0.5em;"}
+Unavoidable. Rules cannot escape ambiguity
+
+-   Deference
+
+    ::: auth-reference
+    Administrative deference (e.g., Chevron case)
+    :::
+
+-   Deliberation, exploration, and experimentation
+
+    ::: auth-reference
+    Evolution of new standards of interpretation (i.e., precedent)
+    :::
+:::
+
+::: fragment
+Ambivalence in [discretion]{.smallcaps}
+:::
+
+::: notes
+**Ambivalence in [formal rationality]{.smallcaps}**
+
+-   Efficient, predictable. Procedural justice.
+
+-   Impersonal. Iron cage.
+
+**Ambivalence in [discretion]{.smallcaps}**
+
+-   Arbitrariness, corruption
+
+-   Good judgement, "local" knowledge
+:::
+
+## Arbitrariness in Discretion
+
+::: {style="border-bottom: 1px solid; padding-bottom: 0.5em; padding-top: 1em;"}
+**Case Study**
+
+New York City Police officers exercising cumulative discretion over the way information collected during police-community meetings.
+:::
+
+::: {.fragment style="padding-top: 0.5em;"}
+Initiative for [police reform is subverted into calls for *more* policing.]{style="padding-top: 0.5em;"}
+
+::: incremental
+-   **where** are meetings located and who attends;
+
+-   **which** complaints are accepted as "actionable" and then recorded; and
+
+-   **how** meetings are publicly represented online.
+:::
+:::
+
+<aside>
+
+::: {style="text-indent: 2em;"}
+Tony Cheng [-@cheng2022] “The Cumulative Discretion of Police over Community Complaints.” *American Journal of Sociology* 127(6): 1782–1817.
+:::
+
+</aside>
+
+## Mindless Rule Following
+
+::: {style="border-bottom: 1px solid; padding-bottom: 0.5em; padding-top: 0.5em;"}
+"Don’t blame me, blame the system. *My hands are tied.*"
+:::
+
+::: {style="padding-top: 0.5em;"}
+::: columns
+::: {.column width="50%"}
+<div>
+
+**Accountability sinks.**
+
+::: incremental
+-   Follow inflexible rules to the letter.
+
+-   Having no choice means you are no held accountable for your actions.
+
+-   Fragile decision-making systems.
+
+    ::: auth-reference
+    No trajectory of improvement!
+    :::
+:::
+
+</div>
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-465289880.png)
+:::
+:::
+:::
+
+<aside>
+
+::: {style="text-indent: 2em;"}
+Dan Davies [-@davies2024]. *The Unaccountability Machine.* Profile Books.
+:::
+
+</aside>
+
+::: notes
+There is no trajectory of improvement.
+
+"Because the rules had to be inflexible in order to absorb personal accountability, they were unable to react to situations that hadn’t been anticipated. It was to be expected that anomalies and inconsistencies would build up over time, eventually causing the system to fail catastrophically—rather like a self-driving car handing back control to the owner at the worst possible moment."
+:::
+
+## Further Theorizing
+
+The "[goals]{.smallcaps}" part of the explanation is *not* fixed.
+
+::: fragment
+-   The subversion or co-optation of professed goals and values
+
+    ::: auth-reference
+    @selznick1949
+    :::
+
+-   Means-end decoupling
+
+    ::: auth-reference
+    @bromley2012
+    :::
+
+-   Ambiguos, inconsistent, and conflicting goals or feedback
+
+    ::: auth-reference
+    @march1993
+    :::
+
+-   The history of "problems" or "goals"
+
+    ::: auth-reference
+    @abbott1988
+    :::
+:::
+
+# Thank You {background-color="#4C837B"}
+
+## References {visibility="uncounted"}

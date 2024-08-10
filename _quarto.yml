@@ -1,0 +1,10 @@
+project:
+  title: "formality"
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+execute:
+  freeze: auto
+
+editor: visual
