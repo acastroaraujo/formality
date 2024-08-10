@@ -18,9 +18,13 @@ bibliography: references.bib
 
 # Background {background-color="#4C837B"}
 
+::: notes
+Three parts to this story.
+:::
+
 ## Cognitive Dissonance
 
-::: incremental
+::: fragment
 -   Status hierarchies as solutions to problems of cooperative goal-attainment.
 
     ::: auth-reference
@@ -53,13 +57,16 @@ bibliography: references.bib
 :::
 
 ::: {.fragment .auth-reference}
-*And a very large etc.*
+*Etc.*
 :::
 
 ::: notes
 Graduate students experience a lot of cognitive dissonance, we are told that functionalism is bad but functionalist explanations are still widely used.
 
 -   On logical grounds: circular reasoning
+-   On political grounds: conservative
+
+Not enough time!
 
 Status hierarchies make group efforts more **efficient** by managing disagreements, redirecting competitive interests, and coordinating actions into a joint effort.
 
@@ -74,17 +81,17 @@ This is not the structural-functionalism of Talcott Parsons, nor the type of fra
 ::: {.column width="50%"}
 **Our goals**
 
--   Disambiguation.
+-   Disambiguation
 
--   Against ["organicism"]{.smallcaps}
+-   Remove association between ["organicism"]{.smallcaps} and ["functionalism"]{.smallcaps}
 
--   [Functionalism]{.smallcaps} as a set of general and recognizable explanatory strategies.
+-   [Functionalism]{.smallcaps} as a set of general and recognizable explanatory strategies
 :::
 
 ::: {.column width="50%"}
 **Nicolás Restrepo Ochoa**
 
-![On the job market!](images/clipboard-1782180081.png){fig-align="center" width="75%"}
+![**On the job market!**](images/clipboard-1782180081.png){fig-align="center" width="75%"}
 :::
 :::
 
@@ -110,7 +117,7 @@ This is not the structural-functionalism of Talcott Parsons, nor the type of fra
 *---Mark Granovetter [-@granovetter2017, 17]*
 :::
 
-::: {.fragment style="text-align: center; padding-top: 5em;"}
+::: {.fragment style="text-align: left; padding-top: 5em;"}
 Where will this take me?
 :::
 :::
@@ -123,9 +130,13 @@ Where will this take me?
 ::: notes
 "Problem-solving sociology: scholarship that attempts to use the traditions of sociological research to solve real-world problems, and uses the attempt to grapple with real-world problems as a way to reformulate understandings of society and renew or reinvent those traditions" [@prasad2021, 3].
 
+There is an affinity here.
+
 Sure sounds like the kind of world problem-solving sociologists *would* like to live in.
 
-This is not a good definition. And Granovetter was very skeptical that this kind of explanation would actually amount to something defensible.
+I do not endorse this definition of functionalism.
+
+Granovetter was very skeptical that this kind of explanation would actually amount to something defensible.
 :::
 
 # Theoretical Foundations {background-color="#4C837B"}
@@ -157,13 +168,15 @@ Functional Explanations vs Functional*isms*
 1.  What are functionalist explanations?
 
     ::: auth-reference
-    Outdated.
+    Outdated
     :::
 
-2.  When do "authoritative abstractions" (rules) work and why?
+2.  When does "formal rationality" work and why?
 
     ::: auth-reference
-    A more *substantive* theory.
+    General, impersonal rules
+
+    A more *substantive* theory
     :::
 :::
 
@@ -173,11 +186,9 @@ Functional Explanations vs Functional*isms*
 :::
 
 ::: notes
-Arthur Stinchcombe, who stubbornly refused to abandon the "functionalist" label.
+Stubbornly refused to abandon the "functionalist" label.
 
-Share a concern for "formal rationality." When it works, and how it works.
-
-The people who staff organizations are not "cultural dopes," they are not "cogs in the machine," they are not "cynical performers," Selznick describes them as "recalcitrant tools" who are committed to their own goals and refuse to be reduced to simple "means."
+The remainder of this presentation is divided in two sections
 :::
 
 ## Functionalist Explanations are Teleological
@@ -212,7 +223,7 @@ A special kind of **causal structure**.
 2.  Conflates [function]{.smallcaps}-explanations and [goal]{.smallcaps}-explanations
 
     ::: auth-reference
-    little overlap
+    partial overlap
     :::
 :::
 
@@ -284,6 +295,8 @@ Why-is-it-there question (historical)
 
 ::: notes
 All proper functions are historical.
+
+*X*: a trait, a belief, a behavioral disposition, a ritual, an artifact, an organization, a rule, ...
 
 If you qualify the effect as "useful" then we get the notion of an *adaptation.*
 :::
