@@ -1,6 +1,6 @@
 project:
   title: "formality"
-  output-dir: _site
+  output-dir: docs
   render:
     - "*.qmd"
 

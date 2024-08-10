@@ -261,7 +261,6 @@ Why-is-it-there question (historical)
 :::
 
 ::: columns
-
 ::: {.column .fragment width="50%" style="padding-top: 0.5em;"}
 **Selection process**
 
