@@ -98,9 +98,7 @@ This is not the structural-functionalism of Talcott Parsons, nor the type of fra
 :::
 
 ::: notes
-1.  It is this idea that "society" or "capitalism" are like organisms that have "goals" or "needs" and that the component parts of society (whatever that is) are like organs.
-
-    Abstract macro-entities with "needs" whose component parts have self-maintenance functions.
+1.  It is this idea that "society" or "capitalism" are like organisms that have "goals" or "needs" and that the component parts of these abstract macro-entities are like organs.
 
 2.  Functionalism as a way of making arguments first.
 
@@ -178,7 +176,7 @@ Functional Explanations vs Functional*isms*
 2.  When does ["formal rationality"]{.smallcaps} work and why?
 
     ::: auth-reference
-    A more *substantive* theory
+    One example of a more *substantive* theory
     :::
 :::
 
@@ -192,9 +190,9 @@ Stubbornly refused to abandon the "functionalist" label.
 
 The remainder of this presentation is divided in two sections.
 
--   Loose definition of functionalism as a way of making arguments.
+-   Loose definition of functionalism as a form of argument.
 
--   An example of what a problem-solving oriented functionalist theory can look like.
+-   One example of what a problem-solving oriented functionalist theory can look like.
 
     General rules and procedures through which organizations attain their goals.
 :::
@@ -222,7 +220,7 @@ A special kind of **causal structure**.
 :::
 
 ::: {.fragment style="padding-top: 0.25em;"}
-Talk of [purpose]{.smallcaps} is vague ([goals]{.smallcaps} and [functions]{.smallcaps})
+[Purpose]{.smallcaps} means [goal]{.smallcaps} or [function]{.smallcaps}
 :::
 
 ::: incremental
@@ -238,19 +236,21 @@ Talk of [purpose]{.smallcaps} is vague ([goals]{.smallcaps} and [functions]{.sma
 ::: notes
 Functionalism and teleology. These are two words with a lot of baggage. Lets unpack them.
 
-1.  These explanations have a bad reputation. Mysterious and problematic because they seem to imply that something in the future can reach back in time and affect the past.
+1.  These explanations have a bad reputation. Mysterious. They seem to imply that something in the future can reach back in time and affect the past.
 
-    It is a mistake to infer the origins of some phenomenon by examining its consequences rather than the actual processes that brought it about.
+    We cannot infer the origins of some phenomenon by examining its consequences instead of the actual processes that brought it about.
 
     It also sometimes feels like conspiracy theory.
 
-2.  A very abstract way of grounding purpose in scientific terms. Of demystifying the problem of backwards causation. It avoids talk of "purpose."
+    So what Stinchcombe did back in the 1960s is...
+
+2.  Feedback or circular causality. A very abstract way of grounding purpose in scientific terms. No problem of backwards causation.
 
     This is when we start seeing a proliferation of causal diagrams in which "functional" social phenomena resemble the inner-workings of house thermostats and homing torpedos... they are directed towards some kind of built-in goal.
 
-    Negative feedback. Homeostatic variables. And "control" over perturbations.
+    It avoids talk of "purpose" which is a vague word.
 
-3.  Seemingly abandoned this template.
+3.  He abandoned this template.
 
     1.  No definition of function.
 
@@ -259,6 +259,8 @@ Functionalism and teleology. These are two words with a lot of baggage. Lets unp
         That chair has a function, but it does not have goals.
 
 \*\* Extra \*\*
+
+Negative feedback. Homeostatic variables. And "control" over perturbations.
 
 “*seeing* is customarily said to be a function of eyes, rather than their goal; and *escape from a predator* is said to be the goal of a hare’s flight, rather than its function.”
 
