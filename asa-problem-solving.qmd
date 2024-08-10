@@ -85,7 +85,7 @@ This is not the structural-functionalism of Talcott Parsons, nor the type of fra
 ::: {.column width="50%"}
 **Our goals**
 
--   Remove association between ["organicism"]{.smallcaps} and ["functionalism"]{.smallcaps}
+-   Remove association between ["functionalism"]{.smallcaps} and ["organicism"]{.smallcaps}
 
 -   [Functionalism]{.smallcaps} as a set of general and recognizable explanatory strategies
 :::
@@ -102,7 +102,9 @@ This is not the structural-functionalism of Talcott Parsons, nor the type of fra
 
     Abstract macro-entities with "needs" whose component parts have self-maintenance functions.
 
-2.  Not as a substantive theory about society!
+2.  Functionalism as a way of making arguments first.
+
+    Not as a substantive theory about society!
 
     You can call this a meta-theory or a methodological frame of reference...
 :::
@@ -134,9 +136,9 @@ Sure sounds like the kind of world problem-solving sociologists *would* like to 
 
 I do not endorse this definition of functionalism.
 
-Granovetter was very skeptical that this kind of explanation would actually amount to something defensible.
-
 \*\* Extra \*\*
+
+Granovetter was very skeptical that this kind of explanation would actually amount to something defensible.
 
 "Problem-solving sociology: scholarship that attempts to use the traditions of sociological research to solve real-world problems, and uses the attempt to grapple with real-world problems as a way to reformulate understandings of society and renew or reinvent those traditions" [@prasad2021, 3].
 :::
@@ -199,7 +201,7 @@ The remainder of this presentation is divided in two sections.
 
 ## Functionalist Explanations are Teleological
 
-::: {style="border-bottom: 1px solid; padding-bottom: 0.5em; padding-top: 1em;"}
+::: {style="border-bottom: 1px solid; padding-bottom: 0.5em; padding-top: 0.5em;"}
 Teleology is the study of [purpose]{.smallcaps} or end-[goals]{.smallcaps}.
 :::
 
@@ -236,13 +238,15 @@ Talk of [purpose]{.smallcaps} is vague ([goals]{.smallcaps} and [functions]{.sma
 ::: notes
 Functionalism and teleology. These are two words with a lot of baggage. Lets unpack them.
 
-1.  These explanations have a bad reputation. Regarded as mysterious and problematic since they seem to imply that something in the future can reach back in time and affect the past.
-
-    It feels like conspiracy theory.
+1.  These explanations have a bad reputation. Mysterious and problematic because they seem to imply that something in the future can reach back in time and affect the past.
 
     It is a mistake to infer the origins of some phenomenon by examining its consequences rather than the actual processes that brought it about.
 
-2.  A very abstract way of grounding purpose in scientific terms. Of demystifying the problem of backwards causation. Proliferation of causal diagrams in which "functional" social phenomena resemble the inner-workings of house thermostats and homing torpedos... directed towards some kind of built-in goal.
+    It also sometimes feels like conspiracy theory.
+
+2.  A very abstract way of grounding purpose in scientific terms. Of demystifying the problem of backwards causation. It avoids talk of "purpose."
+
+    This is when we start seeing a proliferation of causal diagrams in which "functional" social phenomena resemble the inner-workings of house thermostats and homing torpedos... they are directed towards some kind of built-in goal.
 
     Negative feedback. Homeostatic variables. And "control" over perturbations.
 
